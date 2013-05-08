@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">com.life.android.luckynumbers</string>
+    <string name="action_settings">Settings</string>
+    <string name="length_menu_label">Set Length</string>
+    <string name="run_button_label">Run</string>
+    <string name="stop_button_label">Stop</string>
+
+</resources>
